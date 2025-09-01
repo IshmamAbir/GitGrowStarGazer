@@ -1,53 +1,102 @@
 {
-  "current_stargazers": [],
-  "growth_starred": {
-    "webdev-mohdamir": [
-      {
-        "repo": "webdev-mohdamir/anime_zone",
-        "starred_at": "2025-09-01T08:43:51.763003+00:00"
-      }
-    ],
-    "bettercallsundim": [
-      {
-        "repo": "bettercallsundim/adaptify-loop",
-        "starred_at": "2025-09-01T08:43:51.763003+00:00"
-      }
-    ],
-    "zdyxry": [
-      {
-        "repo": "zdyxry/blubber",
-        "starred_at": "2025-09-01T08:43:51.763003+00:00"
-      }
-    ],
-    "Lakshmikanth2001": [
-      {
-        "repo": "Lakshmikanth2001/DFT-Proof",
-        "starred_at": "2025-09-01T08:43:51.763003+00:00"
-      }
-    ],
-    "ioit-aaa": [
-      {
-        "repo": "ioit-aaa/astro-platform-starter",
-        "starred_at": "2025-09-01T08:43:51.763003+00:00"
-      }
-    ],
-    "renannanergg": [
-      {
-        "repo": "renannanergg/Analise-e-previsao-de-cotacoes",
-        "starred_at": "2025-09-01T08:43:51.763003+00:00"
-      }
-    ],
-    "jeyaramashok": [
-      {
-        "repo": "jeyaramashok/blog",
-        "starred_at": "2025-09-01T08:43:51.763003+00:00"
-      }
-    ],
-    "antogerva": [
-      {
-        "repo": "antogerva/archscript",
-        "starred_at": "2025-09-01T08:43:51.763003+00:00"
-      }
-    ]
+  "current_stargazers": [
+    "AbdullahParvez",
+    "Aijiayang1234",
+    "IshmamAbir",
+    "JoseLucasapp",
+    "Tanvir9832",
+    "TuhinAl",
+    "gtabagari",
+    "hatef94",
+    "kb-y-nakano",
+    "logurick",
+    "novojitdas",
+    "quyndnamitech"
+  ],
+  "mutual_stars": {},
+  "unstargazers": [],
+  "reciprocity": {
+    "AbdullahParvez": {
+      "starred_by": [
+        "IshmamAbir/Bangladeshis-in-Japan-Hub"
+      ],
+      "starred_back": []
+    },
+    "IshmamAbir": {
+      "starred_by": [
+        "IshmamAbir/Bangladeshis-in-Japan-Hub",
+        "IshmamAbir/Clean-Architecture-Go-Postgres",
+        "IshmamAbir/Go-Service_Level_Transaction",
+        "IshmamAbir/Portfolio"
+      ],
+      "starred_back": [
+        "IshmamAbir/Portfolio",
+        "IshmamAbir/Go-Service_Level_Transaction",
+        "IshmamAbir/Bangladeshis-in-Japan-Hub",
+        "IshmamAbir/Clean-Architecture-Go-Postgres"
+      ]
+    },
+    "novojitdas": {
+      "starred_by": [
+        "IshmamAbir/Clean-Architecture-Go-Postgres"
+      ],
+      "starred_back": []
+    },
+    "gtabagari": {
+      "starred_by": [
+        "IshmamAbir/Clean-Architecture-Go-Postgres"
+      ],
+      "starred_back": []
+    },
+    "Tanvir9832": {
+      "starred_by": [
+        "IshmamAbir/Clean-Architecture-Go-Postgres"
+      ],
+      "starred_back": []
+    },
+    "TuhinAl": {
+      "starred_by": [
+        "IshmamAbir/Go-Service_Level_Transaction"
+      ],
+      "starred_back": []
+    },
+    "logurick": {
+      "starred_by": [
+        "IshmamAbir/Go-Service_Level_Transaction"
+      ],
+      "starred_back": []
+    },
+    "kb-y-nakano": {
+      "starred_by": [
+        "IshmamAbir/Go-Service_Level_Transaction"
+      ],
+      "starred_back": []
+    },
+    "hatef94": {
+      "starred_by": [
+        "IshmamAbir/Go-Service_Level_Transaction"
+      ],
+      "starred_back": []
+    },
+    "JoseLucasapp": {
+      "starred_by": [
+        "IshmamAbir/Go-Service_Level_Transaction"
+      ],
+      "starred_back": [
+        "JoseLucasapp/Zumbra-lang"
+      ]
+    },
+    "quyndnamitech": {
+      "starred_by": [
+        "IshmamAbir/Go-Service_Level_Transaction"
+      ],
+      "starred_back": []
+    },
+    "Aijiayang1234": {
+      "starred_by": [
+        "IshmamAbir/vue-dxf-viewer"
+      ],
+      "starred_back": []
+    }
   }
 }
