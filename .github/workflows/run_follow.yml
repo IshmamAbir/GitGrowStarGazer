@@ -7,8 +7,9 @@ name: GitGrow Follow (Scheduled)
 
 on:
   schedule:
-    - cron: '5 */1 * * *'     # every hour at minute 5 (UTC)
-  workflow_dispatch: {}      # allows manual triggering
+    - cron: "5 */6 * * *" # every 6 hour at minute 5 (UTC)
+      timezone: "Asia/Tokyo"
+  workflow_dispatch: {} # allows manual triggering
 
 jobs:
   follow:
@@ -23,7 +24,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.10"
 
       - name: Install dependencies
         run: |
@@ -38,7 +39,7 @@ jobs:
 
       - name: Run follow bot
         env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}        # personal access token with user:follow scope
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }} # personal access token with user:follow scope
           USERNAME_FILE: config/usernames.txt
           WHITELIST_FILE: config/whitelist.txt
           FOLLOWERS_PER_RUN: ${{ env.FOLLOWERS_PER_RUN }}

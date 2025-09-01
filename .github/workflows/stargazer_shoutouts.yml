@@ -10,7 +10,8 @@ name: GitGrow Shoutouts (Manual)
 on:
   # This workflow is triggered manually and can also be run on a schedule.
   schedule:
-    - cron: '55 11 * * *' # Runs daily at 11:55 UTC
+    - cron: "55 11 * * *" # Runs daily at 11:55 UTC
+      timezone: "Asia/Tokyo"
   workflow_dispatch:
 
 jobs:
