@@ -1,3 +1,53 @@
 {
-  "current_stargazers": []
+  "current_stargazers": [],
+  "growth_starred": {
+    "webdev-mohdamir": [
+      {
+        "repo": "webdev-mohdamir/anime_zone",
+        "starred_at": "2025-09-01T08:43:51.763003+00:00"
+      }
+    ],
+    "bettercallsundim": [
+      {
+        "repo": "bettercallsundim/adaptify-loop",
+        "starred_at": "2025-09-01T08:43:51.763003+00:00"
+      }
+    ],
+    "zdyxry": [
+      {
+        "repo": "zdyxry/blubber",
+        "starred_at": "2025-09-01T08:43:51.763003+00:00"
+      }
+    ],
+    "Lakshmikanth2001": [
+      {
+        "repo": "Lakshmikanth2001/DFT-Proof",
+        "starred_at": "2025-09-01T08:43:51.763003+00:00"
+      }
+    ],
+    "ioit-aaa": [
+      {
+        "repo": "ioit-aaa/astro-platform-starter",
+        "starred_at": "2025-09-01T08:43:51.763003+00:00"
+      }
+    ],
+    "renannanergg": [
+      {
+        "repo": "renannanergg/Analise-e-previsao-de-cotacoes",
+        "starred_at": "2025-09-01T08:43:51.763003+00:00"
+      }
+    ],
+    "jeyaramashok": [
+      {
+        "repo": "jeyaramashok/blog",
+        "starred_at": "2025-09-01T08:43:51.763003+00:00"
+      }
+    ],
+    "antogerva": [
+      {
+        "repo": "antogerva/archscript",
+        "starred_at": "2025-09-01T08:43:51.763003+00:00"
+      }
+    ]
+  }
 }
