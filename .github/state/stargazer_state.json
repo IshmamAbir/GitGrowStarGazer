@@ -109,6 +109,67 @@
       "last_unbalanced_attempt": "2025-09-02T05:36:04.690287+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "zhubby": [
+      {
+        "repo": "zhubby/blockchain-go",
+        "starred_at": "2025-09-02T08:41:55.203613+00:00"
+      }
+    ],
+    "akshayavb99": [
+      {
+        "repo": "akshayavb99/akshayavb99.github.io",
+        "starred_at": "2025-09-02T08:41:55.203613+00:00"
+      }
+    ],
+    "Kunal4252": [
+      {
+        "repo": "Kunal4252/contact-book-ejs",
+        "starred_at": "2025-09-02T08:41:55.203613+00:00"
+      }
+    ],
+    "DmitryBochkarev": [
+      {
+        "repo": "DmitryBochkarev/batch_any",
+        "starred_at": "2025-09-02T08:41:55.203613+00:00"
+      }
+    ],
+    "umurdualima": [
+      {
+        "repo": "umurdualima/todo-animated-craftcats",
+        "starred_at": "2025-09-02T08:41:55.203613+00:00"
+      }
+    ],
+    "PCC17": [
+      {
+        "repo": "PCC17/CC-Programming",
+        "starred_at": "2025-09-02T08:41:55.203613+00:00"
+      }
+    ],
+    "akiinyo": [
+      {
+        "repo": "akiinyo/AkiinyoBlog",
+        "starred_at": "2025-09-02T08:41:55.203613+00:00"
+      }
+    ],
+    "van1164": [
+      {
+        "repo": "van1164/age-predict-service",
+        "starred_at": "2025-09-02T08:41:55.203613+00:00"
+      }
+    ],
+    "HumairaCoderfusion": [
+      {
+        "repo": "HumairaCoderfusion/HumairaCoderfusion",
+        "starred_at": "2025-09-02T08:41:55.203613+00:00"
+      }
+    ],
+    "MERVISMAS12": [
+      {
+        "repo": "MERVISMAS12/Deep-Learning-Lab",
+        "starred_at": "2025-09-02T08:41:55.203613+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
