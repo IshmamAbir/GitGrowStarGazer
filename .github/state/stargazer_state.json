@@ -98,5 +98,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "gavincapriola": [
+      {
+        "repo": "gavincapriola/chatbot",
+        "starred_at": "2025-09-02T16:42:07.652834+00:00"
+      }
+    ],
+    "GreatGabriel999": [
+      {
+        "repo": "GreatGabriel999/javaexercise",
+        "starred_at": "2025-09-02T16:42:07.652834+00:00"
+      }
+    ],
+    "V-Perotto": [
+      {
+        "repo": "V-Perotto/exp-criativa-bcc",
+        "starred_at": "2025-09-02T16:42:07.652834+00:00"
+      }
+    ],
+    "Xenia2003": [
+      {
+        "repo": "Xenia2003/Xenia2003",
+        "starred_at": "2025-09-02T16:42:07.652834+00:00"
+      }
+    ],
+    "ayumi043": [
+      {
+        "repo": "ayumi043/ayumi043.github.io",
+        "starred_at": "2025-09-02T16:42:07.652834+00:00"
+      }
+    ],
+    "iamrgyan": [
+      {
+        "repo": "iamrgyan/Excel",
+        "starred_at": "2025-09-02T16:42:07.652834+00:00"
+      }
+    ],
+    "shaunlee": [
+      {
+        "repo": "shaunlee/express-fb",
+        "starred_at": "2025-09-02T16:42:07.652834+00:00"
+      }
+    ],
+    "criloz": [
+      {
+        "repo": "criloz/django-raty",
+        "starred_at": "2025-09-02T16:42:07.652834+00:00"
+      }
+    ],
+    "DSHUGUI": [
+      {
+        "repo": "DSHUGUI/nginx",
+        "starred_at": "2025-09-02T16:42:07.652834+00:00"
+      }
+    ]
   }
 }
