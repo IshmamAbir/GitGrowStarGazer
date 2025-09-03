@@ -11,7 +11,8 @@
     "kb-y-nakano",
     "logurick",
     "novojitdas",
-    "quyndnamitech"
+    "quyndnamitech",
+    "seanwallawalla"
   ],
   "mutual_stars": {},
   "unstargazers": [],
@@ -20,8 +21,7 @@
       "starred_by": [
         "IshmamAbir/Bangladeshis-in-Japan-Hub"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-02T19:26:50.143141+00:00"
+      "starred_back": []
     },
     "IshmamAbir": {
       "starred_by": [
@@ -41,50 +41,43 @@
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-02T19:26:50.143141+00:00"
+      "starred_back": []
     },
     "gtabagari": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-02T19:26:50.143141+00:00"
+      "starred_back": []
     },
     "Tanvir9832": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-02T19:26:50.143141+00:00"
+      "starred_back": []
     },
     "TuhinAl": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-02T19:26:50.143141+00:00"
+      "starred_back": []
     },
     "logurick": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-02T19:26:50.143141+00:00"
+      "starred_back": []
     },
     "kb-y-nakano": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-02T21:27:39.096460+00:00"
+      "starred_back": []
     },
     "hatef94": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-02T19:26:50.143141+00:00"
+      "starred_back": []
     },
     "JoseLucasapp": {
       "starred_by": [
@@ -98,174 +91,19 @@
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-02T19:26:50.143141+00:00"
+      "starred_back": []
+    },
+    "seanwallawalla": {
+      "starred_by": [
+        "IshmamAbir/IshmamAbir"
+      ],
+      "starred_back": []
     },
     "Aijiayang1234": {
       "starred_by": [
         "IshmamAbir/vue-dxf-viewer"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-02T21:27:39.096460+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "gavincapriola": [
-      {
-        "repo": "gavincapriola/chatbot",
-        "starred_at": "2025-09-02T16:42:07.652834+00:00"
-      }
-    ],
-    "GreatGabriel999": [
-      {
-        "repo": "GreatGabriel999/javaexercise",
-        "starred_at": "2025-09-02T16:42:07.652834+00:00"
-      }
-    ],
-    "V-Perotto": [
-      {
-        "repo": "V-Perotto/exp-criativa-bcc",
-        "starred_at": "2025-09-02T16:42:07.652834+00:00"
-      }
-    ],
-    "Xenia2003": [
-      {
-        "repo": "Xenia2003/Xenia2003",
-        "starred_at": "2025-09-02T16:42:07.652834+00:00"
-      }
-    ],
-    "ayumi043": [
-      {
-        "repo": "ayumi043/ayumi043.github.io",
-        "starred_at": "2025-09-02T16:42:07.652834+00:00"
-      }
-    ],
-    "iamrgyan": [
-      {
-        "repo": "iamrgyan/Excel",
-        "starred_at": "2025-09-02T16:42:07.652834+00:00"
-      }
-    ],
-    "shaunlee": [
-      {
-        "repo": "shaunlee/express-fb",
-        "starred_at": "2025-09-02T16:42:07.652834+00:00"
-      }
-    ],
-    "criloz": [
-      {
-        "repo": "criloz/django-raty",
-        "starred_at": "2025-09-02T16:42:07.652834+00:00"
-      }
-    ],
-    "DSHUGUI": [
-      {
-        "repo": "DSHUGUI/nginx",
-        "starred_at": "2025-09-02T16:42:07.652834+00:00"
-      }
-    ],
-    "Mwamino": [
-      {
-        "repo": "Mwamino/alx-system_engineering-devops",
-        "starred_at": "2025-09-02T23:28:10.993721+00:00"
-      }
-    ],
-    "knakayama": [
-      {
-        "repo": "knakayama/ansible-codedeploy-agent",
-        "starred_at": "2025-09-02T23:28:10.993721+00:00"
-      }
-    ],
-    "YiTeng123": [
-      {
-        "repo": "YiTeng123/-",
-        "starred_at": "2025-09-02T23:28:10.993721+00:00"
-      }
-    ],
-    "christiankywong": [
-      {
-        "repo": "christiankywong/my-travel-plans",
-        "starred_at": "2025-09-02T23:28:10.993721+00:00"
-      }
-    ],
-    "alvandwp": [
-      {
-        "repo": "alvandwp/business",
-        "starred_at": "2025-09-02T23:28:10.993721+00:00"
-      }
-    ],
-    "ARMY06": [
-      {
-        "repo": "ARMY06/hello-world",
-        "starred_at": "2025-09-02T23:28:10.993721+00:00"
-      }
-    ],
-    "sbabybird": [
-      {
-        "repo": "sbabybird/Gemini-Engineering-Experiments",
-        "starred_at": "2025-09-02T23:28:10.993721+00:00"
-      }
-    ],
-    "raviraj0922": [
-      {
-        "repo": "raviraj0922/buddathemepark",
-        "starred_at": "2025-09-02T23:28:10.993721+00:00"
-      }
-    ],
-    "jagatiyakeval": [
-      {
-        "repo": "jagatiyakeval/jagatiyakeval",
-        "starred_at": "2025-09-03T01:58:44.128293+00:00"
-      }
-    ],
-    "Omer4ruq": [
-      {
-        "repo": "Omer4ruq/AccountingFirmLandingPage",
-        "starred_at": "2025-09-03T01:58:44.128293+00:00"
-      }
-    ],
-    "nirajkmr": [
-      {
-        "repo": "nirajkmr/learn-docker-travis-ci",
-        "starred_at": "2025-09-03T01:58:44.128293+00:00"
-      }
-    ],
-    "MDionis": [
-      {
-        "repo": "MDionis/MDionis",
-        "starred_at": "2025-09-03T01:58:44.128293+00:00"
-      }
-    ],
-    "Ronaldoshuang": [
-      {
-        "repo": "Ronaldoshuang/zjz-wechat",
-        "starred_at": "2025-09-03T01:58:44.128293+00:00"
-      }
-    ],
-    "QinWeijia111": [
-      {
-        "repo": "QinWeijia111/jiaowu_system",
-        "starred_at": "2025-09-03T01:58:44.128293+00:00"
-      }
-    ],
-    "pietrodantuono": [
-      {
-        "repo": "pietrodantuono/test_prj_pd",
-        "starred_at": "2025-09-03T01:58:44.128293+00:00"
-      }
-    ],
-    "odevlucas": [
-      {
-        "repo": "odevlucas/cybersecurity-desafio-ransonware",
-        "starred_at": "2025-09-03T01:58:44.128293+00:00"
-      }
-    ],
-    "Wonkssss": [
-      {
-        "repo": "Wonkssss/CIPHAR10_classification",
-        "starred_at": "2025-09-03T01:58:44.128293+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
