@@ -21,8 +21,7 @@
       "starred_by": [
         "IshmamAbir/Bangladeshis-in-Japan-Hub"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     },
     "IshmamAbir": {
       "starred_by": [
@@ -42,50 +41,43 @@
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     },
     "gtabagari": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     },
     "Tanvir9832": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     },
     "TuhinAl": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     },
     "logurick": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     },
     "kb-y-nakano": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     },
     "hatef94": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     },
     "JoseLucasapp": {
       "starred_by": [
@@ -99,79 +91,19 @@
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     },
     "seanwallawalla": {
       "starred_by": [
         "IshmamAbir/IshmamAbir"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     },
     "Aijiayang1234": {
       "starred_by": [
         "IshmamAbir/vue-dxf-viewer"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T11:28:33.934144+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "khristovv": [
-      {
-        "repo": "khristovv/Dungeons-and-Pythons",
-        "starred_at": "2025-09-03T08:40:28.031141+00:00"
-      }
-    ],
-    "Ameyaw9": [
-      {
-        "repo": "Ameyaw9/ai-engineer-roadmap",
-        "starred_at": "2025-09-03T08:40:28.031141+00:00"
-      }
-    ],
-    "Georgekaseri": [
-      {
-        "repo": "Georgekaseri/codecepjs-api-test",
-        "starred_at": "2025-09-03T08:40:28.031141+00:00"
-      }
-    ],
-    "Swati0444": [
-      {
-        "repo": "Swati0444/pomelo_test",
-        "starred_at": "2025-09-03T08:40:28.031141+00:00"
-      }
-    ],
-    "hikaruaohara": [
-      {
-        "repo": "hikaruaohara/EmbeddingsArt",
-        "starred_at": "2025-09-03T08:40:28.031141+00:00"
-      }
-    ],
-    "matanby": [
-      {
-        "repo": "matanby/arbitrary-style-transfer-pytorch",
-        "starred_at": "2025-09-03T08:40:28.031141+00:00"
-      }
-    ],
-    "florivdg": [
-      {
-        "repo": "florivdg/astro-vue-router",
-        "starred_at": "2025-09-03T08:40:28.031141+00:00"
-      }
-    ],
-    "NataliEtti": [
-      {
-        "repo": "NataliEtti/final--spring-2018-wmm630-at-touro-college",
-        "starred_at": "2025-09-03T08:40:28.031141+00:00"
-      }
-    ],
-    "JudithBabbel": [
-      {
-        "repo": "JudithBabbel/OSS-development-linux-and-git-specialization",
-        "starred_at": "2025-09-03T08:40:28.031141+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
