@@ -117,6 +117,61 @@
       "last_unbalanced_attempt": "2025-09-03T05:32:44.768239+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "khristovv": [
+      {
+        "repo": "khristovv/Dungeons-and-Pythons",
+        "starred_at": "2025-09-03T08:40:28.031141+00:00"
+      }
+    ],
+    "Ameyaw9": [
+      {
+        "repo": "Ameyaw9/ai-engineer-roadmap",
+        "starred_at": "2025-09-03T08:40:28.031141+00:00"
+      }
+    ],
+    "Georgekaseri": [
+      {
+        "repo": "Georgekaseri/codecepjs-api-test",
+        "starred_at": "2025-09-03T08:40:28.031141+00:00"
+      }
+    ],
+    "Swati0444": [
+      {
+        "repo": "Swati0444/pomelo_test",
+        "starred_at": "2025-09-03T08:40:28.031141+00:00"
+      }
+    ],
+    "hikaruaohara": [
+      {
+        "repo": "hikaruaohara/EmbeddingsArt",
+        "starred_at": "2025-09-03T08:40:28.031141+00:00"
+      }
+    ],
+    "matanby": [
+      {
+        "repo": "matanby/arbitrary-style-transfer-pytorch",
+        "starred_at": "2025-09-03T08:40:28.031141+00:00"
+      }
+    ],
+    "florivdg": [
+      {
+        "repo": "florivdg/astro-vue-router",
+        "starred_at": "2025-09-03T08:40:28.031141+00:00"
+      }
+    ],
+    "NataliEtti": [
+      {
+        "repo": "NataliEtti/final--spring-2018-wmm630-at-touro-college",
+        "starred_at": "2025-09-03T08:40:28.031141+00:00"
+      }
+    ],
+    "JudithBabbel": [
+      {
+        "repo": "JudithBabbel/OSS-development-linux-and-git-specialization",
+        "starred_at": "2025-09-03T08:40:28.031141+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
