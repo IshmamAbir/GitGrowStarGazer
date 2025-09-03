@@ -7,7 +7,7 @@ name: GitGrow Follow (Scheduled)
 
 on:
   schedule:
-    - cron: "5 */6 * * *" # every 6 hour at minute 5 (UTC)
+    - cron: "5 */8 * * *" # every 8 hour at minute 5 (UTC)
       timezone: "Asia/Tokyo"
   workflow_dispatch: {} # allows manual triggering
 
