@@ -12,6 +12,7 @@
     "logurick",
     "novojitdas",
     "quyndnamitech",
+    "seanpm2001",
     "seanwallawalla"
   ],
   "mutual_stars": {},
@@ -21,8 +22,7 @@
       "starred_by": [
         "IshmamAbir/Bangladeshis-in-Japan-Hub"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T19:27:27.172813+00:00"
+      "starred_back": []
     },
     "IshmamAbir": {
       "starred_by": [
@@ -42,50 +42,43 @@
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T19:27:27.172813+00:00"
+      "starred_back": []
     },
     "gtabagari": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T19:27:27.172813+00:00"
+      "starred_back": []
     },
     "Tanvir9832": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T19:27:27.172813+00:00"
+      "starred_back": []
     },
     "TuhinAl": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T19:27:27.172813+00:00"
+      "starred_back": []
     },
     "logurick": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T19:27:27.172813+00:00"
+      "starred_back": []
     },
     "kb-y-nakano": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T21:28:18.731870+00:00"
+      "starred_back": []
     },
     "hatef94": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T19:27:27.172813+00:00"
+      "starred_back": []
     },
     "JoseLucasapp": {
       "starred_by": [
@@ -99,175 +92,25 @@
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T19:27:27.172813+00:00"
+      "starred_back": []
     },
     "seanwallawalla": {
       "starred_by": [
         "IshmamAbir/IshmamAbir"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T19:27:27.172813+00:00"
+      "starred_back": []
+    },
+    "seanpm2001": {
+      "starred_by": [
+        "IshmamAbir/IshmamAbir"
+      ],
+      "starred_back": []
     },
     "Aijiayang1234": {
       "starred_by": [
         "IshmamAbir/vue-dxf-viewer"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-03T21:28:18.731870+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "joaogarciadelima": [
-      {
-        "repo": "joaogarciadelima/aerosupport",
-        "starred_at": "2025-09-03T16:41:00.842856+00:00"
-      }
-    ],
-    "zackyfachrur": [
-      {
-        "repo": "zackyfachrur/be-exalna-export",
-        "starred_at": "2025-09-03T16:41:00.842856+00:00"
-      }
-    ],
-    "charvithabhashyam": [
-      {
-        "repo": "charvithabhashyam/ats-streamlit-app",
-        "starred_at": "2025-09-03T16:41:00.842856+00:00"
-      }
-    ],
-    "olaviolacerda": [
-      {
-        "repo": "olaviolacerda/.files",
-        "starred_at": "2025-09-03T16:41:00.842856+00:00"
-      }
-    ],
-    "maztomo": [
-      {
-        "repo": "maztomo/maztomo.github.com",
-        "starred_at": "2025-09-03T16:41:00.842856+00:00"
-      }
-    ],
-    "gimmy1": [
-      {
-        "repo": "gimmy1/Blob-Boundary",
-        "starred_at": "2025-09-03T16:41:00.842856+00:00"
-      }
-    ],
-    "abin-m": [
-      {
-        "repo": "abin-m/ATP-Walah-Backend",
-        "starred_at": "2025-09-03T16:41:00.842856+00:00"
-      }
-    ],
-    "Harun11100": [
-      {
-        "repo": "Harun11100/Apple_website_3d",
-        "starred_at": "2025-09-03T16:41:00.842856+00:00"
-      }
-    ],
-    "tilaboy": [
-      {
-        "repo": "tilaboy/easy-word2vec",
-        "starred_at": "2025-09-03T23:28:52.272099+00:00"
-      }
-    ],
-    "brayan15511": [
-      {
-        "repo": "brayan15511/brayan15511",
-        "starred_at": "2025-09-03T23:28:52.272099+00:00"
-      }
-    ],
-    "jiraiyam": [
-      {
-        "repo": "jiraiyam/Flask_CancerDetection",
-        "starred_at": "2025-09-03T23:28:52.272099+00:00"
-      }
-    ],
-    "Stephenfang51": [
-      {
-        "repo": "Stephenfang51/CenterNet_TensorRT_CPP",
-        "starred_at": "2025-09-03T23:28:52.272099+00:00"
-      }
-    ],
-    "AlexanderHott": [
-      {
-        "repo": "AlexanderHott/0xott.zip",
-        "starred_at": "2025-09-03T23:28:52.272099+00:00"
-      }
-    ],
-    "sebassdc": [
-      {
-        "repo": "sebassdc/angular-practices",
-        "starred_at": "2025-09-03T23:28:52.272099+00:00"
-      }
-    ],
-    "Dfupa": [
-      {
-        "repo": "Dfupa/last",
-        "starred_at": "2025-09-03T23:28:52.272099+00:00"
-      }
-    ],
-    "thabangndhlovu": [
-      {
-        "repo": "thabangndhlovu/Integrate-Project",
-        "starred_at": "2025-09-03T23:28:52.272099+00:00"
-      }
-    ],
-    "Juniortajra": [
-      {
-        "repo": "Juniortajra/cadastroderecruta",
-        "starred_at": "2025-09-03T23:28:52.272099+00:00"
-      }
-    ],
-    "PvAthira": [
-      {
-        "repo": "PvAthira/wpTheme",
-        "starred_at": "2025-09-03T23:28:52.272099+00:00"
-      }
-    ],
-    "moechaieb": [
-      {
-        "repo": "moechaieb/Calculette-Core",
-        "starred_at": "2025-09-04T01:59:19.021500+00:00"
-      }
-    ],
-    "SINANFT1": [
-      {
-        "repo": "SINANFT1/SINANFT1",
-        "starred_at": "2025-09-04T01:59:19.021500+00:00"
-      }
-    ],
-    "mostafa6765": [
-      {
-        "repo": "mostafa6765/awesome-sidebar",
-        "starred_at": "2025-09-04T01:59:19.021500+00:00"
-      }
-    ],
-    "ajalamarvellous": [
-      {
-        "repo": "ajalamarvellous/ajalamarvellous.github.io",
-        "starred_at": "2025-09-04T01:59:19.021500+00:00"
-      }
-    ],
-    "eddiearc": [
-      {
-        "repo": "eddiearc/ed-orm",
-        "starred_at": "2025-09-04T01:59:19.021500+00:00"
-      }
-    ],
-    "malte-wessel": [
-      {
-        "repo": "malte-wessel/bouncerjs",
-        "starred_at": "2025-09-04T01:59:19.021500+00:00"
-      }
-    ],
-    "ebe25": [
-      {
-        "repo": "ebe25/Airline_bms",
-        "starred_at": "2025-09-04T01:59:19.021500+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
