@@ -125,6 +125,61 @@
       "last_unbalanced_attempt": "2025-09-04T05:33:04.198251+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "moizhaiderr": [
+      {
+        "repo": "moizhaiderr/ds-proj-via-avl",
+        "starred_at": "2025-09-04T08:40:34.955440+00:00"
+      }
+    ],
+    "wangsfine": [
+      {
+        "repo": "wangsfine/express-test",
+        "starred_at": "2025-09-04T08:40:34.955440+00:00"
+      }
+    ],
+    "ErdyRezki": [
+      {
+        "repo": "ErdyRezki/dashboard_mm",
+        "starred_at": "2025-09-04T08:40:34.955440+00:00"
+      }
+    ],
+    "xueqingxiao": [
+      {
+        "repo": "xueqingxiao/historic-buildings-map",
+        "starred_at": "2025-09-04T08:40:34.955440+00:00"
+      }
+    ],
+    "coryvirok": [
+      {
+        "repo": "coryvirok/inc500",
+        "starred_at": "2025-09-04T08:40:34.955440+00:00"
+      }
+    ],
+    "lingjiekong": [
+      {
+        "repo": "lingjiekong/CS221Project",
+        "starred_at": "2025-09-04T08:40:34.955440+00:00"
+      }
+    ],
+    "gregnb": [
+      {
+        "repo": "gregnb/area-dominant-color",
+        "starred_at": "2025-09-04T08:40:34.955440+00:00"
+      }
+    ],
+    "clyangj": [
+      {
+        "repo": "clyangj/mebay",
+        "starred_at": "2025-09-04T08:40:34.955440+00:00"
+      }
+    ],
+    "antgr": [
+      {
+        "repo": "antgr/interestingthinking.github.io",
+        "starred_at": "2025-09-04T08:40:34.955440+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
