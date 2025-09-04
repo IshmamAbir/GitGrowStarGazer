@@ -22,8 +22,7 @@
       "starred_by": [
         "IshmamAbir/Bangladeshis-in-Japan-Hub"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "IshmamAbir": {
       "starred_by": [
@@ -43,50 +42,43 @@
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "gtabagari": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "Tanvir9832": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "TuhinAl": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "logurick": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "kb-y-nakano": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "hatef94": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "JoseLucasapp": {
       "starred_by": [
@@ -100,86 +92,25 @@
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "seanwallawalla": {
       "starred_by": [
         "IshmamAbir/IshmamAbir"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "seanpm2001": {
       "starred_by": [
         "IshmamAbir/IshmamAbir"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     },
     "Aijiayang1234": {
       "starred_by": [
         "IshmamAbir/vue-dxf-viewer"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-04T11:29:03.203158+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "moizhaiderr": [
-      {
-        "repo": "moizhaiderr/ds-proj-via-avl",
-        "starred_at": "2025-09-04T08:40:34.955440+00:00"
-      }
-    ],
-    "wangsfine": [
-      {
-        "repo": "wangsfine/express-test",
-        "starred_at": "2025-09-04T08:40:34.955440+00:00"
-      }
-    ],
-    "ErdyRezki": [
-      {
-        "repo": "ErdyRezki/dashboard_mm",
-        "starred_at": "2025-09-04T08:40:34.955440+00:00"
-      }
-    ],
-    "xueqingxiao": [
-      {
-        "repo": "xueqingxiao/historic-buildings-map",
-        "starred_at": "2025-09-04T08:40:34.955440+00:00"
-      }
-    ],
-    "coryvirok": [
-      {
-        "repo": "coryvirok/inc500",
-        "starred_at": "2025-09-04T08:40:34.955440+00:00"
-      }
-    ],
-    "lingjiekong": [
-      {
-        "repo": "lingjiekong/CS221Project",
-        "starred_at": "2025-09-04T08:40:34.955440+00:00"
-      }
-    ],
-    "gregnb": [
-      {
-        "repo": "gregnb/area-dominant-color",
-        "starred_at": "2025-09-04T08:40:34.955440+00:00"
-      }
-    ],
-    "clyangj": [
-      {
-        "repo": "clyangj/mebay",
-        "starred_at": "2025-09-04T08:40:34.955440+00:00"
-      }
-    ],
-    "antgr": [
-      {
-        "repo": "antgr/interestingthinking.github.io",
-        "starred_at": "2025-09-04T08:40:34.955440+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
