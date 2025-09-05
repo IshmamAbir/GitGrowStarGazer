@@ -125,6 +125,49 @@
       "last_unbalanced_attempt": "2025-09-05T05:33:12.488155+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "alexnpz": [
+      {
+        "repo": "alexnpz/digsystems",
+        "starred_at": "2025-09-05T08:40:12.915593+00:00"
+      }
+    ],
+    "ShivaVarkiani": [
+      {
+        "repo": "ShivaVarkiani/PythonLearningProjekts",
+        "starred_at": "2025-09-05T08:40:12.915593+00:00"
+      }
+    ],
+    "knziiy": [
+      {
+        "repo": "knziiy/ecs-metrics-exporter",
+        "starred_at": "2025-09-05T08:40:12.915593+00:00"
+      }
+    ],
+    "dci-marc": [
+      {
+        "repo": "dci-marc/bored-rest-api",
+        "starred_at": "2025-09-05T08:40:12.915593+00:00"
+      }
+    ],
+    "jorgeants": [
+      {
+        "repo": "jorgeants/annaejorge",
+        "starred_at": "2025-09-05T08:40:12.915593+00:00"
+      }
+    ],
+    "templklklk": [
+      {
+        "repo": "templklklk/rcore-note",
+        "starred_at": "2025-09-05T08:40:12.915593+00:00"
+      }
+    ],
+    "Lautis1": [
+      {
+        "repo": "Lautis1/Algoritmos-III-FIUBA-75.07",
+        "starred_at": "2025-09-05T08:40:12.915593+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
