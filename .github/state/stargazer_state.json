@@ -112,5 +112,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "iliatalebzade": [
+      {
+        "repo": "iliatalebzade/concurrency-in-go",
+        "starred_at": "2025-09-05T16:37:22.758736+00:00"
+      }
+    ],
+    "MurphyL": [
+      {
+        "repo": "MurphyL/cheatsheets",
+        "starred_at": "2025-09-05T16:37:22.758736+00:00"
+      }
+    ],
+    "TheAbhijeet": [
+      {
+        "repo": "TheAbhijeet/API",
+        "starred_at": "2025-09-05T16:37:22.758736+00:00"
+      }
+    ],
+    "shafimuhammad1": [
+      {
+        "repo": "shafimuhammad1/shafimuhammad1",
+        "starred_at": "2025-09-05T16:37:22.758736+00:00"
+      }
+    ],
+    "erfan-rfmhr": [
+      {
+        "repo": "erfan-rfmhr/auth",
+        "starred_at": "2025-09-05T16:37:22.758736+00:00"
+      }
+    ],
+    "V1NAY8": [
+      {
+        "repo": "V1NAY8/glcic",
+        "starred_at": "2025-09-05T16:37:22.758736+00:00"
+      }
+    ],
+    "yashc73080": [
+      {
+        "repo": "yashc73080/AI-Flashcards",
+        "starred_at": "2025-09-05T16:37:22.758736+00:00"
+      }
+    ],
+    "melak47": [
+      {
+        "repo": "melak47/cmake-repro",
+        "starred_at": "2025-09-05T16:37:22.758736+00:00"
+      }
+    ],
+    "mdapena": [
+      {
+        "repo": "mdapena/pyventus",
+        "starred_at": "2025-09-05T16:37:22.758736+00:00"
+      }
+    ],
+    "studio42gmbh": [
+      {
+        "repo": "studio42gmbh/base42",
+        "starred_at": "2025-09-05T16:37:22.758736+00:00"
+      }
+    ]
   }
 }
