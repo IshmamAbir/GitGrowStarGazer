@@ -22,17 +22,18 @@
       "starred_by": [
         "IshmamAbir/Bangladeshis-in-Japan-Hub"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:27.144213+00:00"
+      "starred_back": []
     },
     "IshmamAbir": {
       "starred_by": [
         "IshmamAbir/Bangladeshis-in-Japan-Hub",
         "IshmamAbir/Clean-Architecture-Go-Postgres",
         "IshmamAbir/Go-Service_Level_Transaction",
+        "IshmamAbir/IshmamAbir",
         "IshmamAbir/Portfolio"
       ],
       "starred_back": [
+        "IshmamAbir/IshmamAbir",
         "IshmamAbir/Portfolio",
         "IshmamAbir/Go-Service_Level_Transaction",
         "IshmamAbir/Bangladeshis-in-Japan-Hub",
@@ -43,50 +44,43 @@
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:27.144213+00:00"
+      "starred_back": []
     },
     "gtabagari": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:27.144213+00:00"
+      "starred_back": []
     },
     "Tanvir9832": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:27.144213+00:00"
+      "starred_back": []
     },
     "TuhinAl": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:27.144213+00:00"
+      "starred_back": []
     },
     "logurick": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:27.144213+00:00"
+      "starred_back": []
     },
     "kb-y-nakano": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T21:28:13.507813+00:00"
+      "starred_back": []
     },
     "hatef94": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:27.144213+00:00"
+      "starred_back": []
     },
     "JoseLucasapp": {
       "starred_by": [
@@ -100,200 +94,25 @@
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:27.144213+00:00"
+      "starred_back": []
     },
     "seanwallawalla": {
       "starred_by": [
         "IshmamAbir/IshmamAbir"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:27.144213+00:00"
+      "starred_back": []
     },
     "seanpm2001": {
       "starred_by": [
         "IshmamAbir/IshmamAbir"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:27.144213+00:00"
+      "starred_back": []
     },
     "Aijiayang1234": {
       "starred_by": [
         "IshmamAbir/vue-dxf-viewer"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T21:28:13.507813+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "iliatalebzade": [
-      {
-        "repo": "iliatalebzade/concurrency-in-go",
-        "starred_at": "2025-09-05T16:37:22.758736+00:00"
-      }
-    ],
-    "MurphyL": [
-      {
-        "repo": "MurphyL/cheatsheets",
-        "starred_at": "2025-09-05T16:37:22.758736+00:00"
-      }
-    ],
-    "TheAbhijeet": [
-      {
-        "repo": "TheAbhijeet/API",
-        "starred_at": "2025-09-05T16:37:22.758736+00:00"
-      }
-    ],
-    "shafimuhammad1": [
-      {
-        "repo": "shafimuhammad1/shafimuhammad1",
-        "starred_at": "2025-09-05T16:37:22.758736+00:00"
-      }
-    ],
-    "erfan-rfmhr": [
-      {
-        "repo": "erfan-rfmhr/auth",
-        "starred_at": "2025-09-05T16:37:22.758736+00:00"
-      }
-    ],
-    "V1NAY8": [
-      {
-        "repo": "V1NAY8/glcic",
-        "starred_at": "2025-09-05T16:37:22.758736+00:00"
-      }
-    ],
-    "yashc73080": [
-      {
-        "repo": "yashc73080/AI-Flashcards",
-        "starred_at": "2025-09-05T16:37:22.758736+00:00"
-      }
-    ],
-    "melak47": [
-      {
-        "repo": "melak47/cmake-repro",
-        "starred_at": "2025-09-05T16:37:22.758736+00:00"
-      }
-    ],
-    "mdapena": [
-      {
-        "repo": "mdapena/pyventus",
-        "starred_at": "2025-09-05T16:37:22.758736+00:00"
-      }
-    ],
-    "studio42gmbh": [
-      {
-        "repo": "studio42gmbh/base42",
-        "starred_at": "2025-09-05T16:37:22.758736+00:00"
-      }
-    ],
-    "agathacamargo23": [
-      {
-        "repo": "agathacamargo23/Algoritmos",
-        "starred_at": "2025-09-05T23:29:19.056228+00:00"
-      }
-    ],
-    "zx-feishang": [
-      {
-        "repo": "zx-feishang/MachineLearninginAction",
-        "starred_at": "2025-09-05T23:29:19.056228+00:00"
-      }
-    ],
-    "felipe-mig": [
-      {
-        "repo": "felipe-mig/Australian_States_Game",
-        "starred_at": "2025-09-05T23:29:19.056228+00:00"
-      }
-    ],
-    "alvaromb": [
-      {
-        "repo": "alvaromb/adoptame",
-        "starred_at": "2025-09-05T23:29:19.056228+00:00"
-      }
-    ],
-    "saduncakmakli": [
-      {
-        "repo": "saduncakmakli/AndroidBootcampFinalProject",
-        "starred_at": "2025-09-05T23:29:19.056228+00:00"
-      }
-    ],
-    "nassim111": [
-      {
-        "repo": "nassim111/R-solution-du-Probl-me-du-Voyageur-de-Commerce-avec-l-Algorithme-des-Colonies-de-Fourmis",
-        "starred_at": "2025-09-05T23:29:19.056228+00:00"
-      }
-    ],
-    "cedard234": [
-      {
-        "repo": "cedard234/AcceLeNetor",
-        "starred_at": "2025-09-05T23:29:19.056228+00:00"
-      }
-    ],
-    "vladfrontend": [
-      {
-        "repo": "vladfrontend/chiasmBin",
-        "starred_at": "2025-09-05T23:29:19.056228+00:00"
-      }
-    ],
-    "Corrosion667": [
-      {
-        "repo": "Corrosion667/assistant-bot",
-        "starred_at": "2025-09-05T23:29:19.056228+00:00"
-      }
-    ],
-    "josdanind": [
-      {
-        "repo": "josdanind/alkemy-challenge",
-        "starred_at": "2025-09-06T01:58:43.199775+00:00"
-      }
-    ],
-    "MousumiMitu": [
-      {
-        "repo": "MousumiMitu/4rdweb",
-        "starred_at": "2025-09-06T01:58:43.199775+00:00"
-      }
-    ],
-    "SliverKeigo": [
-      {
-        "repo": "SliverKeigo/aide-memoire",
-        "starred_at": "2025-09-06T01:58:43.199775+00:00"
-      }
-    ],
-    "noteverseio": [
-      {
-        "repo": "noteverseio/docs",
-        "starred_at": "2025-09-06T01:58:43.199775+00:00"
-      }
-    ],
-    "pseudovicky": [
-      {
-        "repo": "pseudovicky/100DaysOfMachineLearning",
-        "starred_at": "2025-09-06T01:58:43.199775+00:00"
-      }
-    ],
-    "MohammadMMoniri": [
-      {
-        "repo": "MohammadMMoniri/dal-challenge",
-        "starred_at": "2025-09-06T01:58:43.199775+00:00"
-      }
-    ],
-    "mamungtg": [
-      {
-        "repo": "mamungtg/K8s",
-        "starred_at": "2025-09-06T01:58:43.199775+00:00"
-      }
-    ],
-    "scottferg": [
-      {
-        "repo": "scottferg/Android-LED-Power-Status",
-        "starred_at": "2025-09-06T01:58:43.199775+00:00"
-      }
-    ],
-    "antonybenhur": [
-      {
-        "repo": "antonybenhur/ATS",
-        "starred_at": "2025-09-06T01:58:43.199775+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
