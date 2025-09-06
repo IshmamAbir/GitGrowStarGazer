@@ -114,5 +114,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "ocramz": [
+      {
+        "repo": "ocramz/aeson-schema",
+        "starred_at": "2025-09-06T16:35:04.245834+00:00"
+      }
+    ],
+    "hightechif": [
+      {
+        "repo": "hightechif/android-fundamental-dicoding",
+        "starred_at": "2025-09-06T16:35:04.245834+00:00"
+      }
+    ],
+    "simpledyt": [
+      {
+        "repo": "simpledyt/blog",
+        "starred_at": "2025-09-06T16:35:04.245834+00:00"
+      }
+    ],
+    "sequoiar": [
+      {
+        "repo": "sequoiar/bouncy",
+        "starred_at": "2025-09-06T16:35:04.245834+00:00"
+      }
+    ],
+    "daniel-mizsak": [
+      {
+        "repo": "daniel-mizsak/falcon-formation",
+        "starred_at": "2025-09-06T16:35:04.245834+00:00"
+      }
+    ],
+    "jabawack81": [
+      {
+        "repo": "jabawack81/blog",
+        "starred_at": "2025-09-06T16:35:04.245834+00:00"
+      }
+    ],
+    "LesChas": [
+      {
+        "repo": "LesChas/Custom-LLM",
+        "starred_at": "2025-09-06T16:35:04.245834+00:00"
+      }
+    ],
+    "GustaDev2": [
+      {
+        "repo": "GustaDev2/criando-site",
+        "starred_at": "2025-09-06T16:35:04.245834+00:00"
+      }
+    ],
+    "josedaniel": [
+      {
+        "repo": "josedaniel/Automatic-MySQL-Dumps",
+        "starred_at": "2025-09-06T16:35:04.245834+00:00"
+      }
+    ],
+    "fedesteves": [
+      {
+        "repo": "fedesteves/Model-Based-Testing-for-Smart-Devices",
+        "starred_at": "2025-09-06T16:35:04.245834+00:00"
+      }
+    ]
   }
 }
