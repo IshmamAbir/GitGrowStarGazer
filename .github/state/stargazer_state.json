@@ -127,6 +127,67 @@
       "last_unbalanced_attempt": "2025-09-06T05:32:09.265721+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "muratkazma0": [
+      {
+        "repo": "muratkazma0/Basic-Currency-Converter",
+        "starred_at": "2025-09-06T08:34:20.003989+00:00"
+      }
+    ],
+    "priya-gitTest": [
+      {
+        "repo": "priya-gitTest/Breast-Cancer-predictions",
+        "starred_at": "2025-09-06T08:34:20.003989+00:00"
+      }
+    ],
+    "lucasspw2": [
+      {
+        "repo": "lucasspw2/blog-nextjs",
+        "starred_at": "2025-09-06T08:34:20.003989+00:00"
+      }
+    ],
+    "jimmy947788": [
+      {
+        "repo": "jimmy947788/02047788a.github.io",
+        "starred_at": "2025-09-06T08:34:20.003989+00:00"
+      }
+    ],
+    "kkrlosdev": [
+      {
+        "repo": "kkrlosdev/kkrlosdev",
+        "starred_at": "2025-09-06T08:34:20.003989+00:00"
+      }
+    ],
+    "Sayantan-s": [
+      {
+        "repo": "Sayantan-s/build-physician",
+        "starred_at": "2025-09-06T08:34:20.003989+00:00"
+      }
+    ],
+    "parsa-black": [
+      {
+        "repo": "parsa-black/Automatic-Topic-Detection-Farsi",
+        "starred_at": "2025-09-06T08:34:20.003989+00:00"
+      }
+    ],
+    "cowholio4": [
+      {
+        "repo": "cowholio4/friend_tracker",
+        "starred_at": "2025-09-06T08:34:20.003989+00:00"
+      }
+    ],
+    "Ikramkhemir": [
+      {
+        "repo": "Ikramkhemir/projet1",
+        "starred_at": "2025-09-06T08:34:20.003989+00:00"
+      }
+    ],
+    "MajQel": [
+      {
+        "repo": "MajQel/Cassie",
+        "starred_at": "2025-09-06T08:34:20.003989+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
