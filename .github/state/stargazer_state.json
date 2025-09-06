@@ -22,8 +22,7 @@
       "starred_by": [
         "IshmamAbir/Bangladeshis-in-Japan-Hub"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "IshmamAbir": {
       "starred_by": [
@@ -45,50 +44,43 @@
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "gtabagari": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "Tanvir9832": {
       "starred_by": [
         "IshmamAbir/Clean-Architecture-Go-Postgres"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "TuhinAl": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "logurick": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "kb-y-nakano": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "hatef94": {
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "JoseLucasapp": {
       "starred_by": [
@@ -102,92 +94,25 @@
       "starred_by": [
         "IshmamAbir/Go-Service_Level_Transaction"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "seanwallawalla": {
       "starred_by": [
         "IshmamAbir/IshmamAbir"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "seanpm2001": {
       "starred_by": [
         "IshmamAbir/IshmamAbir"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     },
     "Aijiayang1234": {
       "starred_by": [
         "IshmamAbir/vue-dxf-viewer"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-06T11:26:20.143457+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "muratkazma0": [
-      {
-        "repo": "muratkazma0/Basic-Currency-Converter",
-        "starred_at": "2025-09-06T08:34:20.003989+00:00"
-      }
-    ],
-    "priya-gitTest": [
-      {
-        "repo": "priya-gitTest/Breast-Cancer-predictions",
-        "starred_at": "2025-09-06T08:34:20.003989+00:00"
-      }
-    ],
-    "lucasspw2": [
-      {
-        "repo": "lucasspw2/blog-nextjs",
-        "starred_at": "2025-09-06T08:34:20.003989+00:00"
-      }
-    ],
-    "jimmy947788": [
-      {
-        "repo": "jimmy947788/02047788a.github.io",
-        "starred_at": "2025-09-06T08:34:20.003989+00:00"
-      }
-    ],
-    "kkrlosdev": [
-      {
-        "repo": "kkrlosdev/kkrlosdev",
-        "starred_at": "2025-09-06T08:34:20.003989+00:00"
-      }
-    ],
-    "Sayantan-s": [
-      {
-        "repo": "Sayantan-s/build-physician",
-        "starred_at": "2025-09-06T08:34:20.003989+00:00"
-      }
-    ],
-    "parsa-black": [
-      {
-        "repo": "parsa-black/Automatic-Topic-Detection-Farsi",
-        "starred_at": "2025-09-06T08:34:20.003989+00:00"
-      }
-    ],
-    "cowholio4": [
-      {
-        "repo": "cowholio4/friend_tracker",
-        "starred_at": "2025-09-06T08:34:20.003989+00:00"
-      }
-    ],
-    "Ikramkhemir": [
-      {
-        "repo": "Ikramkhemir/projet1",
-        "starred_at": "2025-09-06T08:34:20.003989+00:00"
-      }
-    ],
-    "MajQel": [
-      {
-        "repo": "MajQel/Cassie",
-        "starred_at": "2025-09-06T08:34:20.003989+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
